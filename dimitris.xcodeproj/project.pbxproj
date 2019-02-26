@@ -274,7 +274,7 @@
 				CODE_SIGN_ENTITLEMENTS = dimitris/dimitris.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = LMC4CG556D;
 				INFOPLIST_FILE = dimitris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -293,7 +293,7 @@
 				CODE_SIGN_ENTITLEMENTS = dimitris/dimitris.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = LMC4CG556D;
 				INFOPLIST_FILE = dimitris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
